@@ -1,0 +1,47 @@
+*
+{
+	font-family:fantasy;
+}
+.Text
+{
+	font-size: 35px;
+	color:Grey;
+}
+.Number,.Result
+{
+	background-color:#dbdbdb;
+	font-size:25px;
+	border:none;
+	padding: 5px;
+	color:white;
+}
+#operators
+{
+	border: none;
+	cursor: pointer;
+	height:25px;
+	font-size: 25px;
+	color:grey;
+}
+.Btn
+{
+	border:none ;
+	height:45px;
+	width:65px;
+	font-size:25px;
+	color: grey;
+}
+.Footer
+{
+	margin: 335px 0px;
+	color:Grey;
+	background-color:#dbdbdb;
+	height:198px;
+	font-size: 25px;
+	padding: 8px;
+}
+.Text-Link
+{
+	text-decoration:none;
+	color:darkgray;
+}
